@@ -3,6 +3,7 @@ frontend/
 ├── public/
 │   └── index.html
 ├── src/
+
 │   ├── actions/
 │   │   ├── productActions.js
 │   │   ├── userActions.js
