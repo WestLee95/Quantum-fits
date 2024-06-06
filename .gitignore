@@ -1,0 +1,10 @@
+/backend/node_modules/bcryptjs/
+/backend/node_modules/cors/
+/backend/node_modules/dotenv/
+/backend/node_modules/express/
+/backend/node_modules/jsonwebtoken/
+/backend/node_modules/mongoose/
+/backend/node_modules/@types/node/
+/backend/node_modules/stripe/
+/backend/node_modules/undici-types/
+
